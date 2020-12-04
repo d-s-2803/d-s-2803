@@ -2,7 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=d-s-2803&color=red)
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on Machine Learning
 - 🤔 I’m looking for help with Application Development :-)
 - 💬 Ask me about Data Structures & Algorithms
 - 😄 Pronouns: He/His
