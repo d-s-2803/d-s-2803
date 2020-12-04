@@ -1,6 +1,5 @@
 ### Hola, I'm Dhruvil Shah 👋
 ![](https://komarev.com/ghpvc/?username=d-s-2803&color=red)
-![alt text]()
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Machine Learning
@@ -11,7 +10,7 @@
 
 
 ### Programming Languages  :rocket:
-|<img src="C:\College\Dhruvil Shah Profile\images\Programming_languages\1024px-Python-logo-notext.svg.png" width=60> | <img src="C:\College\Dhruvil Shah Profile\images\Programming_languages\1024px-Python-logo-notext.svg.png" width=60> | <img src="C:\College\Dhruvil Shah Profile\images\Programming_languages\C.png" width=60> |<img src="C:\College\Dhruvil Shah Profile\images\Programming_languages\C++.png" width=60> |<img src="C:\College\Dhruvil Shah Profile\images\Programming_languages\CSS.png" width=60> |<img src="C:\College\Dhruvil Shah Profile\images\Programming_languages\logo-html-5.png" width=60>|
+|<img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> | <img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/Programming_languages/C%2B%2B.png" width=60> | <img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/Programming_languages/C.png" width=60> |<img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/Programming_languages/javalogo.png" width=60> |<img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/Programming_languages/logo-html-5.png" width=60> |<img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/Programming_languages/logo-html-5.png" width=60>|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 
 
