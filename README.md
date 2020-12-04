@@ -15,7 +15,7 @@
 
 
 ### Tools :fire:
-|<img src="C:\College\Dhruvil Shah Profile\images\tools\1200px-Android_Studio_icon.svg.png" width=60>| <img src="C:\College\Dhruvil Shah Profile\images\tools\intellij-idea_logo_300x300.png" width=60>| <img src="C:\College\Dhruvil Shah Profile\images\tools\notebook.png" width=60>|  <img src="C:\College\Dhruvil Shah Profile\images\tools\firebase.png" width=60> | <img src="C:\College\Dhruvil Shah Profile\images\tools\github.svg" width=60> |<img src="C:\College\Dhruvil Shah Profile\images\tools\VS.png" width=60> |<img src="C:\College\Dhruvil Shah Profile\images\tools\PyCharm_Logo.svg.png" width=60> |
+|<img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/tools/1200px-Android_Studio_icon.svg.png" width=60>| <img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/tools/PyCharm_Logo.svg.png" width=60>| <img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/tools/VS.png" width=60>|  <img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/tools/firebase.png" width=60> | <img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/tools/github.svg" width=60> |<img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/tools/intellij-idea_logo_300x300.png" width=60> |<img src="C:\College\Dhruvil Shah Profile\images\tools\PyCharm_Logo.svg.png" width=60> |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ![Dhruvil Shah's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-s-2803)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-s-2803&layout=compact)
