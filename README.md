@@ -29,7 +29,7 @@
 </a>
 <a href="https://www.instagram.com/dhruvil_shah_2803">
   <img align="left" alt="Dhruvil Shah Instagram" width="21px" src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/connect_with_me_images/instagram-main.svg" />
-</a>
+</a> 
 <a href="https://www.facebook.com/people/Dhruvil-Shah/100008288985265">
   <img align="left" alt="Dhruvil Shah Facebook" width="21px" src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/connect_with_me_images/facebook.svg" />
 </a>
