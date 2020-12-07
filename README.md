@@ -1,4 +1,4 @@
-### Hola, I'm Dhruvil Shah 👋
+### Hallo, I'm Dhruvil Shah 👋
 ![](https://komarev.com/ghpvc/?username=d-s-2803&color=red)
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Web Development
