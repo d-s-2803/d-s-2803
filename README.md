@@ -2,11 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=d-s-2803&color=red)
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Web Development
-- 🤔 I’m looking for help with Application Development :-)
 - 💬 Ask me about Data Structures & Algorithms
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend most of my time exploring new technologies and watching Web Series
 - 4 ⭐ in [Codechef](https://www.codechef.com/users/d_s_2803) with a rating of 1844
+- ⚡ Fun fact: I spend most of my time exploring new technologies and watching Web Series
 
 ### Programming Languages  :rocket:
 |<img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/Programming_languages/1024px-Python-logo-notext.svg.png" width=60> | <img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/Programming_languages/C%2B%2B.png" width=60> | <img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/Programming_languages/C.png" width=60> |<img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/Programming_languages/javalogo.png" width=60> |<img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/Programming_languages/logo-html-5.png" width=60> |<img src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/Programming_languages/CSS.png" width=60>|
