@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Web Development
 - 💬 Ask me about Data Structures & Algorithms
-- 4⭐ in [Codechef](https://www.codechef.com/users/d_s_2803) with a rating of 1844
+- 4⭐ in [Codechef](https://www.codechef.com/users/d_s_2803) with a rating of 1947
 - ⚡ Fun fact: I spend most of my time exploring new technologies and watching Web Series
 
 ### Programming Languages  :rocket:
