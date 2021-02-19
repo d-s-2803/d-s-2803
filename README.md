@@ -19,7 +19,7 @@
 
 
 ### Connect with me :smiley:
-<a href="https://twitter.com/d_s_2803" target = "_blank">
+<a href="https://twitter.com/d_s_2803">
   <img align="left" alt="Dhruvil Shah Twitter" width="21px" src="https://github.com/d-s-2803/Dhruvil-Shah-Profile/blob/main/images/connect_with_me_images/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/dhruvil-shah-b416b018a/">
